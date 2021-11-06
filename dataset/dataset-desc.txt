@@ -1,0 +1,10 @@
+DATA DESCRIPTION
+model		: Toyota model	(string)
+year		: reg year	(integer)
+price		: in £		(integer) - targeted column
+transmission	: gearbox	(string)
+mileage		: miles		(integer)
+fuelType	: fuel		(string)
+tax		: in £		(integer)
+mpg		: miles		(float)
+engineSize	: litres	(float)
